@@ -10,4 +10,5 @@
  screen -dmS skein $STRATUM_DIR/run.sh skein
  screen -dmS x11 $STRATUM_DIR/run.sh x11
  screen -dmS xevan $STRATUM_DIR/run.sh xevan
+ screen -dmS argon2d $STRATUM_DIR/run.sh argon2d 
  
